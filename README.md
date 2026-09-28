@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I love DanceDanceRevolution and computers in general. They are practically my lifeblood.
